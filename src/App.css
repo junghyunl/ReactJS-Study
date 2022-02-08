@@ -1,0 +1,21 @@
+.menu{
+  display: flex;
+  width: 15%;
+  justify-content:space-around;
+}
+
+h1{
+  width: 85vw;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.button{
+  cursor: pointer;
+}
+
+body { 
+  padding-top: 100px;
+}
